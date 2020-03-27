@@ -1,12 +1,12 @@
 # Codeigniter-php-Bootstrap-Admin-Panel-with-user-management
  Codeigniter Bootstrap Admin Panel with user management
 
-<img src="https://bootsback.com/assets/others/banner-1.jpg" alt="offer" />
+
 <p>Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web. <br>It is developed for custom CodeIgniter projects. <br>It is cover most common features that needed for nowadays project. It will make your development task more easier <br>then before. We are working hard to create many premium features on this project. This project is to speed up<br> your web development effort . Configurations can be made easily using the Control Panel. </p>
 
 <p><strong>>.htaccess .zipping support</strong></p>
 <p><strong>>.HTML compression enable/disable </strong></p>
-<img src="https://bootsback.com/assets/others/B-1.png" alt="sidebar" />
+<img src="https://bootsback.com/assets/others/A-2.png" alt="sidebar" />
     <br>Speed up web development by using ready modules<br>
     Make changes quickly and easily using control panel<br>
     Convert your existing admin panel to this new panel<br>
