@@ -31,7 +31,7 @@
 		2. Material-dashboard<br>
 <br>
 
-<br><strong>Demo Link: <a href="https://bootsback.com/page.html" target="_blank">https://bootsback.com/page.html</a></strong><br>
+<br><strong>Demo-Link: <a href="https://bootsback.com/page.html" target="_blank">https://bootsback.com/page.html</a></strong><br>
 
 SuperAdmin Demo:<br>
 
