@@ -26,9 +26,8 @@
     Easy customization<br>
 	AdminLTE And Material-Dashboard<br>
 
-<br>There are 2 admin themes<br>
-		1. AdminLTE<br>
-		2. Material-dashboard<br>
+<br>There is AdminLTE<br>
+		
 <br>
 
 <br><strong>Demo-Link: <a href="https://bootsback.com/page.html" target="_blank">https://bootsback.com/page.html</a></strong><br>
