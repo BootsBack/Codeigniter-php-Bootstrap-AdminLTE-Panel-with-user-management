@@ -35,7 +35,7 @@
 SuperAdmin Demo:<br>
 
 Username: admin@bootsback.com<br>
-Password: 12345678<br>
+Password: 1234<br>
 
 <br><strong>Credits</strong><br>
 <a href="https://github.com/ColorlibHQ/AdminLTE" rel="nofollow">AdminLTE</a></br>
